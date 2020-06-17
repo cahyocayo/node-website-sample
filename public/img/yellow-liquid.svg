@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111px" height="330px" viewBox="0 0 111 330" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Clip 781</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.205,0.76 L311.613,0.76 C315.274,2.933 318.322,5.319 320.602,7.965 C360.83,54.536 267.688,116.449 243.864,63.524 C220.053,10.61 168.191,16.953 152.317,54.536 C112.005,149.922 -30.779,117.914 7.205,0.76" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-15.000000, -15.000000)">
+            <g id="f" transform="translate(70.019498, 180.261361) rotate(-90.000000) translate(-70.019498, -180.261361) translate(-95.480502, 124.761361)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-781" fill="#FFE049" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

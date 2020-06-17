@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="77px" viewBox="0 0 109 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>01</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.06 0 500 0 500 500 0.06 500"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2149848" transform="translate(-58.000000, -232.000000)">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+            </g>
+            <polyline id="Fill-13" fill="#F6CC37" points="96.715 308.564 58.202 270.051 96.715 231.538 135.229 270.051 96.715 308.564"></polyline>
+            <polyline id="Fill-14" fill="#F6CC37" points="113.235 231.538 108.963 235.81 143.205 270.051 108.963 304.292 113.235 308.564 151.748 270.051 113.235 231.538"></polyline>
+            <polyline id="Fill-15" fill="#F6CC37" points="143.092 245.449 138.079 240.436 133.807 244.707 159.15 270.051 133.842 295.359 138.114 299.631 167.694 270.051 143.092 245.449"></polyline>
+            <text id="01" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="22" font-weight="400" fill="#FFFFFF">
+                <tspan x="84" y="278">01</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
